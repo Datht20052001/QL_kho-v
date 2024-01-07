@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="View\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\NhapKhoNv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\QLySanPhamNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\NhapKhoQK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\QLnhapkho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\QLySanPhamQK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
